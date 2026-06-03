@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor
+
 # Design-and-Implementation-of-32-bit-Multi-stage-RISC-V-Processor
 -------------------------------------------------
 
